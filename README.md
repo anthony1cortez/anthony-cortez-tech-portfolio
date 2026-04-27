@@ -95,4 +95,12 @@ Automated reporting processes using Excel and VBA.
 
 ## 🔥 Final Note
 
-I bring a combination of real-world operational experience and hands-on technical training. I’ve spent years supporting systems and users in production environments and am now building the technical depth to match.
+I bring a combination of real-world operational experience and hands-on technical training. I’ve spent years supporting systems and users in production environments and am now building the technical depth to match. 
+
+## Projects
+
+- [Linux Static IP](./projects/linux-static-ip)
+- [Wireshark ARP Analysis](./projects/wireshark-arp-analysis)
+- [VLAN Network](./projects/vlan-network)
+- [pfSense Logs](./projects/pfsense-logs)
+- [Excel Automation](./projects/excel-automation)
